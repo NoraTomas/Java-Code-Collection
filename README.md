@@ -6,9 +6,9 @@ but still need to do Java (Such as in an apocalypse)
 # How to iterate through a HashMap?
 
 ```java
-private HashMap<String, Integer> personToAge = new HashMap<>();
-
 public class JavaGoodToKnow(){
+
+	private HashMap<String, Integer> personToAge = new HashMap<>();
     
     public JavaGoodToKnow(){
         personToAge.put("Bill", 62);
