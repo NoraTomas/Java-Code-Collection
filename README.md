@@ -32,7 +32,7 @@ public class JavaGoodToKnow(){
             String name = entry.getKey();
             int age = entry.getValue();
             
-            //Do something with keys an values
+            //Do something with keys and values
         }
     }
 
